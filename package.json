@@ -1,0 +1,29 @@
+{
+  "name": "react-age-calculator",
+  "version": "1.0.0",
+  "description": "A React component for calculating precise age in years, months, and days from a given birth date.",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kashif Ali",
+  "license": "MIT",
+  "keywords": [
+    "age calculator",
+    "react component",
+    "birth date",
+    "age computation",
+    "date of birth",
+    "birthday",
+    "age"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-react": "^7.23.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

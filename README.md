@@ -55,3 +55,7 @@ If you're interested in contributing to this project, we're thrilled to have you
 ## License
 Distributed under the MIT License. See **LICENSE** for more information.
 
+## Contact
+- Name: **Kashif Ali**
+- Email: **Kashif.zzy@gmail.com**
+- GitHub: **https://github.com/kashifalirajper**
