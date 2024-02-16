@@ -12,9 +12,11 @@ The Age Calculator is a comprehensive React component designed to calculate and 
 
 Install the Age Calculator with npm by running the following command in your project directory:
 
-```bash
-npm install react-age-calculator --save
-```
+## npm Package
+
+The npm package can be found at [npmjs.com/package/react-age-calculator](https://www.npmjs.com/package/react-age-calculator).
+[![npm version](https://badge.fury.io/js/react-age-calculator.svg)](https://www.npmjs.com/package/react-age-calculator)
+
 
 ## Usage
 After installing the package, you can use the Age Calculator component in your React application by importing it and then including it in your component's render method or return statement. Here's a basic example:
