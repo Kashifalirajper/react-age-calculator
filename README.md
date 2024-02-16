@@ -2,20 +2,16 @@
 
 The Age Calculator is a comprehensive React component designed to calculate and display a person's age in years, months, and days. It supports a variety of date formats for input, making it a versatile tool for developers looking to incorporate age calculation functionality into their React applications.
 
+## npm Package
+
+The npm package can be found at [npmjs.com/package/react-age-calculator](https://www.npmjs.com/package/react-age-calculator).
+[![npm version](https://badge.fury.io/js/react-age-calculator.svg)](https://www.npmjs.com/package/react-age-calculator)
+
 ## Features
 
 - **Versatile Date Input**: Supports `YYYY-MM-DD`, `DD-MM-YYYY`, and `DD/MM/YYYY` formats, accommodating different regional date formats.
 - **Precise Age Calculation**: Calculates age to the level of days, providing detailed age information.
 - **Easy to Integrate**: Can be seamlessly incorporated into any React application, enhancing user interaction with minimal setup.
-
-## Installation
-
-Install the Age Calculator with npm by running the following command in your project directory:
-
-## npm Package
-
-The npm package can be found at [npmjs.com/package/react-age-calculator](https://www.npmjs.com/package/react-age-calculator).
-[![npm version](https://badge.fury.io/js/react-age-calculator.svg)](https://www.npmjs.com/package/react-age-calculator)
 
 
 ## Usage
